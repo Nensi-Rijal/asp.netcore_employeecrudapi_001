@@ -1,4 +1,4 @@
-![image](https://github.com/Nensi-Rijal/asp.netcore_employeecrudapi_001/assets/65943072/e5b274b3-82a6-452a-ac2f-adc60df83ebc)#employeecrudapi
+#employeecrudapi
 
 This is an employee crud api project created using asp.netcore webapi  and to be able to run this project in your device:
 
